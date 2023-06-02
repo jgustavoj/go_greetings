@@ -1,3 +1,3 @@
-module github.com/jgustavoj/go_greetings.git
+module github.com/jgustavoj/go_greetings
 
 go 1.20
